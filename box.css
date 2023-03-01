@@ -1,0 +1,9 @@
+html,
+body {
+    height: 100vh;
+}
+main {
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid black;
+}

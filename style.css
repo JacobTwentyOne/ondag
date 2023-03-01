@@ -1,0 +1,26 @@
+
+
+p {
+    color: yellow;
+}
+
+
+
+.lead {
+    font-size: 1.4rem;
+}
+
+h1 {
+    color: red;
+}
+body {
+    color: #ff0000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+  background-color: black;
+}
+
+.container {
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+}
